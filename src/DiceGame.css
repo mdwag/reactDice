@@ -1,0 +1,11 @@
+.dice-game{
+width: 20vw;
+}
+.dice-game-dice{
+display: grid;
+grid-template-columns: 1fr 1fr;
+padding: 0%;
+}
+i{
+    color: firebrick;
+}
